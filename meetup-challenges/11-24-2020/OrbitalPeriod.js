@@ -3,7 +3,7 @@
 ///// CHALLENGE LINK /////
 // https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris //
 
-///// QUESTION /////
+///// CHALLENGE /////
 // Return a new array that transforms the elements' average altitude into their orbital periods (in seconds).
 
 // The array will contain objects in the format {name: 'name', avgAlt: avgAlt}.
